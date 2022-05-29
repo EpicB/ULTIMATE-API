@@ -1,0 +1,12 @@
+C:\Users\A_A\source\repos\ULTIMATE API\contracts\bin\Debug\net5.0\contracts.deps.json
+C:\Users\A_A\source\repos\ULTIMATE API\contracts\bin\Debug\net5.0\contracts.dll
+C:\Users\A_A\source\repos\ULTIMATE API\contracts\bin\Debug\net5.0\ref\contracts.dll
+C:\Users\A_A\source\repos\ULTIMATE API\contracts\bin\Debug\net5.0\contracts.pdb
+C:\Users\A_A\source\repos\ULTIMATE API\contracts\obj\Debug\net5.0\contracts.csproj.AssemblyReference.cache
+C:\Users\A_A\source\repos\ULTIMATE API\contracts\obj\Debug\net5.0\contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A_A\source\repos\ULTIMATE API\contracts\obj\Debug\net5.0\contracts.AssemblyInfoInputs.cache
+C:\Users\A_A\source\repos\ULTIMATE API\contracts\obj\Debug\net5.0\contracts.AssemblyInfo.cs
+C:\Users\A_A\source\repos\ULTIMATE API\contracts\obj\Debug\net5.0\contracts.csproj.CoreCompileInputs.cache
+C:\Users\A_A\source\repos\ULTIMATE API\contracts\obj\Debug\net5.0\contracts.dll
+C:\Users\A_A\source\repos\ULTIMATE API\contracts\obj\Debug\net5.0\ref\contracts.dll
+C:\Users\A_A\source\repos\ULTIMATE API\contracts\obj\Debug\net5.0\contracts.pdb

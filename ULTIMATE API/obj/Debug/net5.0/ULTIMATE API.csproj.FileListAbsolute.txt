@@ -1,0 +1,33 @@
+C:\Users\A_A\source\repos\ULTIMATE API\ULTIMATE API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\A_A\source\repos\ULTIMATE API\ULTIMATE API\bin\Debug\net5.0\appsettings.json
+C:\Users\A_A\source\repos\ULTIMATE API\ULTIMATE API\bin\Debug\net5.0\ULTIMATE API.exe
+C:\Users\A_A\source\repos\ULTIMATE API\ULTIMATE API\bin\Debug\net5.0\ULTIMATE API.deps.json
+C:\Users\A_A\source\repos\ULTIMATE API\ULTIMATE API\bin\Debug\net5.0\ULTIMATE API.runtimeconfig.json
+C:\Users\A_A\source\repos\ULTIMATE API\ULTIMATE API\bin\Debug\net5.0\ULTIMATE API.runtimeconfig.dev.json
+C:\Users\A_A\source\repos\ULTIMATE API\ULTIMATE API\bin\Debug\net5.0\ULTIMATE API.dll
+C:\Users\A_A\source\repos\ULTIMATE API\ULTIMATE API\bin\Debug\net5.0\ref\ULTIMATE API.dll
+C:\Users\A_A\source\repos\ULTIMATE API\ULTIMATE API\bin\Debug\net5.0\ULTIMATE API.pdb
+C:\Users\A_A\source\repos\ULTIMATE API\ULTIMATE API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\A_A\source\repos\ULTIMATE API\ULTIMATE API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\A_A\source\repos\ULTIMATE API\ULTIMATE API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\A_A\source\repos\ULTIMATE API\ULTIMATE API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\A_A\source\repos\ULTIMATE API\ULTIMATE API\obj\Debug\net5.0\ULTIMATE API.csproj.AssemblyReference.cache
+C:\Users\A_A\source\repos\ULTIMATE API\ULTIMATE API\obj\Debug\net5.0\ULTIMATE API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A_A\source\repos\ULTIMATE API\ULTIMATE API\obj\Debug\net5.0\ULTIMATE API.AssemblyInfoInputs.cache
+C:\Users\A_A\source\repos\ULTIMATE API\ULTIMATE API\obj\Debug\net5.0\ULTIMATE API.AssemblyInfo.cs
+C:\Users\A_A\source\repos\ULTIMATE API\ULTIMATE API\obj\Debug\net5.0\ULTIMATE API.csproj.CoreCompileInputs.cache
+C:\Users\A_A\source\repos\ULTIMATE API\ULTIMATE API\obj\Debug\net5.0\ULTIMATE API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\A_A\source\repos\ULTIMATE API\ULTIMATE API\obj\Debug\net5.0\ULTIMATE API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\A_A\source\repos\ULTIMATE API\ULTIMATE API\obj\Debug\net5.0\staticwebassets\ULTIMATE API.StaticWebAssets.Manifest.cache
+C:\Users\A_A\source\repos\ULTIMATE API\ULTIMATE API\obj\Debug\net5.0\staticwebassets\ULTIMATE API.StaticWebAssets.xml
+C:\Users\A_A\source\repos\ULTIMATE API\ULTIMATE API\obj\Debug\net5.0\scopedcss\bundle\ULTIMATE API.styles.css
+C:\Users\A_A\source\repos\ULTIMATE API\ULTIMATE API\obj\Debug\net5.0\ULTIMATE API.RazorTargetAssemblyInfo.cache
+C:\Users\A_A\source\repos\ULTIMATE API\ULTIMATE API\obj\Debug\net5.0\ULTIMATE API.csproj.CopyComplete
+C:\Users\A_A\source\repos\ULTIMATE API\ULTIMATE API\obj\Debug\net5.0\ULTIMATE API.dll
+C:\Users\A_A\source\repos\ULTIMATE API\ULTIMATE API\obj\Debug\net5.0\ref\ULTIMATE API.dll
+C:\Users\A_A\source\repos\ULTIMATE API\ULTIMATE API\obj\Debug\net5.0\ULTIMATE API.pdb
+C:\Users\A_A\source\repos\ULTIMATE API\ULTIMATE API\obj\Debug\net5.0\ULTIMATE API.genruntimeconfig.cache
+C:\Users\A_A\source\repos\ULTIMATE API\ULTIMATE API\bin\Debug\net5.0\NLog.dll
+C:\Users\A_A\source\repos\ULTIMATE API\ULTIMATE API\bin\Debug\net5.0\NLog.Extensions.Logging.dll
+C:\Users\A_A\source\repos\ULTIMATE API\ULTIMATE API\bin\Debug\net5.0\contracts.dll
+C:\Users\A_A\source\repos\ULTIMATE API\ULTIMATE API\bin\Debug\net5.0\contracts.pdb
